@@ -1,5 +1,5 @@
 {
-    "name": "piu/pay",
+    "name": "piuio/pay",
     "description": "",
     "type": "library",
     "license": "MIT",
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Piu\\Pay\\": "src/"
+            "PiuIO\\Pay\\": "src/"
         }
     }
 }
